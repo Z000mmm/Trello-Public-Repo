@@ -1,0 +1,10 @@
+{
+  "name": "My Private API Tool",
+  "description": "Private Power-Up to access Trello API",
+  "permissions": {
+    "api": "read,write",
+    "board": "read,write"
+  },
+  "author": "Dean Hollier",
+  "version": "1.0"
+}
